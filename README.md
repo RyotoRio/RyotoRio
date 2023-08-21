@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyotoRio
-- 👀 I’m interested in Web development, Python, Drawing.
+- 👀 I’m interested in Web development, 3D Modeling, Python, Drawing.
 - 🌱 I’m currently learning web development, Python
 - Reach me via gmail: ashwinpradhan527@gmail.com
 <!---
